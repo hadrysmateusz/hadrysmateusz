@@ -8,7 +8,11 @@ I'm a passionate front-end developer from Poland, specialising in React and Type
 - [Beautiful Custom List Styles Using Modern CSS](https://medium.com/front-end-weekly/custom-list-styles-using-marker-710ad80ce760)
 
 
-## Languages and Tools:
+### 👨‍💻 My projects
+- **writing-tool _[WIP]_** • **[Case study](http://localhost:3000/project/writing-app)** • [Code](https://github.com/hadrysmateusz/writing-app)
+- **StreetZone** • **[Case study](http://localhost:3000/project/streetzone)** • [Code](https://github.com/hadrysmateusz/streetzone) • [View Live](https://streetwear-app.web.app)
+
+## Languages and Tools
 <p>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' alt="aws" width="40" height="40">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' alt="aws" width="40" height="40">
@@ -18,11 +22,19 @@ I'm a passionate front-end developer from Poland, specialising in React and Type
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg' alt="aws" width="40" height="40">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg' alt="aws" width="40" height="40">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' alt="aws" width="40" height="40">
-
-  
-  
 </p>
 
+
+
+<!-- ## My projects
+**writing-tool _[WIP]_**
+  - [Case study](http://localhost:3000/project/writing-app)
+  - [Code](https://github.com/hadrysmateusz/writing-app)
+
+**StreetZone** 
+  - [Case study](http://localhost:3000/project/streetzone)
+  - [Code](https://github.com/hadrysmateusz/streetzone)
+  - [View Live](https://streetwear-app.web.app) -->
 
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hadrysmateusz)](https://github.com/anuraghazra/github-readme-stats) -->
 
