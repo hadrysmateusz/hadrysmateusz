@@ -9,8 +9,8 @@ I'm a passionate front-end developer from Poland, specialising in React and Type
 
 
 ### 👨‍💻 My projects
-- **writing-tool _[WIP]_** • **[Case study](http://localhost:3000/project/writing-app)** • [Code](https://github.com/hadrysmateusz/writing-app)
-- **StreetZone** • **[Case study](http://localhost:3000/project/streetzone)** • [Code](https://github.com/hadrysmateusz/streetzone) • [View Live](https://streetwear-app.web.app)
+- **writing-tool _[WIP]_** • **[Case study](https://hadrysmateusz.com/project/writing-app)** • [Code](https://github.com/hadrysmateusz/writing-app)
+- **StreetZone** • **[Case study](https://hadrysmateusz.com/project/streetzone)** • [Code](https://github.com/hadrysmateusz/streetzone) • [View Live](https://streetwear-app.web.app)
 
 ## Languages and Tools
 <p>
