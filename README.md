@@ -14,13 +14,12 @@ I'm a passionate front-end developer from Poland, specialising in React and Type
 
 ## Languages and Tools
 <p>
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' alt="aws" width="40" height="40">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' alt="aws" width="40" height="40">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt="aws" width="40" height="40">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' alt="aws" width="40" height="40">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' alt="aws" width="40" height="40">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' alt="aws" width="40" height="40">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' alt="aws" width="40" height="40">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg' alt="aws" width="40" height="40">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg' alt="aws" width="40" height="40">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' alt="aws" width="40" height="40">
 </p>
 
